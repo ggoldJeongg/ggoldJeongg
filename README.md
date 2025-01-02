@@ -6,7 +6,6 @@
   
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yjjuc4109@gmail.com" target="_blank"><img alig="left" src="https://img.shields.io/badge/yjjuc4109@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://blog.naver.com/justkeepgoin"><img alig="left" src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="[https://yjjuc4109.notion.site/1280344cb48f80fcbdb5db05d244f66c?pvs=4](https://www.notion.so/yjjuc4109/1210344cb48f803598dfec7bba269837)"><img alig="left" src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 <br>
 <br>
