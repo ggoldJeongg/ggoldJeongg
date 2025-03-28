@@ -3,6 +3,7 @@
 
 <div align= "center"> 
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yjjuc4109@gmail.com" target="_blank"><img alig="left" src="https://img.shields.io/badge/yjjuc4109@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+   <a href="https://ggoldjeongg.tistory.com/" target="_blank"><img alig="left" src="https://img.shields.io/badge/Blog-EA4335?style=flat-square&logo=tistory&logoColor=white"/></a>
   <h3 align="center"><b>✋ About me</b></h3>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> #Front-End #ChallengeDriven #Proactive </div> 
 </div>  
